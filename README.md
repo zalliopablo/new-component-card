@@ -17,4 +17,4 @@ The work is made with a _Movil First_ design, in addition to using tools like _F
 
 ## Link
 
-https://zalliopablo.github.io/new-component.card
+https://zalliopablo.github.io/new-component-card
